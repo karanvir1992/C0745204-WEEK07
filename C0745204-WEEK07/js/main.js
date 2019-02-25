@@ -1,5 +1,6 @@
 ﻿var bird = {
 
+
      genus: "corvus",
      species: "corvax",
      commanName: "raven",
@@ -11,6 +12,7 @@
 
 };
 var bear = {
+
      genus: "ursus",
      species: "arctos",
      commanName: "brown bear",
